@@ -2,7 +2,8 @@
 
 ## I'm Yuri Egito
 - I live in Brasil, Rio de Janeiro
-- I am a Back-end student
+- I am a computer science student🚀
+- I am a Full Stack Student
 - I have been learnig more about Python and JavaScript 🚀
 
 ## Connect with me:
