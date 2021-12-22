@@ -20,7 +20,6 @@
 <img src="https://img.icons8.com/windows/48/000000/postgreesql.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 
 ## Learning
-<img src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
