@@ -1,41 +1,25 @@
-### Hi 👋
-
-## I'm Yuri Egito
-- I live in Brasil, Rio de Janeiro
-- I am a computer science student🚀
-- I am a Full Stack Student
-- I have been learnig more about Python and JavaScript 🚀
-
-## Connect with me:
-<a href="https://www.linkedin.com/in/yuri-egito-05255a216/" target="_blank">
-<img align="center" alt="yuriegito-linkedin" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" style="max-width:100%;">
-</a>
-
-## My Skills
-
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/fluency/48/000000/python.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/windows/48/000000/postgreesql.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-
-## Learning
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-
-<!--
-*Yegito-Yegito/Yegito-Yegito* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá eu sou Yuri Egito!
+<div align="center">
+  <a href="https://github.com/Yegito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yegito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yegito&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/yuriegito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yuriegito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/yuri-egito-05255a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
